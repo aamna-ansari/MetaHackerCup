@@ -1,4 +1,4 @@
-# Cheeseburger
+# Cheeseburger_II
 
 file = open("Input.txt", "r")
 
