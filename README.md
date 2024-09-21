@@ -22,7 +22,7 @@
    - [Solution](https://github.com/aamna-ansari/MetaHackerCup/blob/main/2023/Problem_B/DimSum.py)
  
   ## Problem_C
-- ### Dim Sum Delivery
+- ### Two Apples a Day
    - [Problem Link](https://web.facebook.com/codingcompetitions/hacker-cup/2023/practice-round/problems/C)
    - [Tutorial Link](https://web.facebook.com/watch/?v=2449162365445579)
    - [Solution](https://github.com/aamna-ansari/MetaHackerCup/blob/main/2023/Problem_C/Two%20_apples.py)
