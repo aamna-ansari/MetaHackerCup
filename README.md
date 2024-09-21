@@ -59,6 +59,16 @@
     <td align="center"><a href="https://web.facebook.com/codingcompetitions/hacker-cup/2024/practice-round/problems/C">Fall in Line</td>
     <td align="center" ><a href="">Fall in Line</td>  
   </tr>
+  <tr>
+    <td align="center"><b>Problem_D(Part I)</td>
+    <td align="center"><a href="https://web.facebook.com/codingcompetitions/hacker-cup/2024/practice-round/problems/D1">Line of Delivery_I</td>
+    <td align="center" ><a href="">Line of Delivery_I</td>  
+  </tr>
+  <tr>
+    <td align="center"><b>Problem_D(Part II)</td>
+    <td align="center"><a href="https://web.facebook.com/codingcompetitions/hacker-cup/2024/practice-round/problems/D2">Line of Delivery_II</td>
+    <td align="center" ><a href="">Line of Delivery_II</td>  
+  </tr>
 </tbody>
 <table>
   
